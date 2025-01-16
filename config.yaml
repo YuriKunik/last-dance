@@ -1,4 +1,5 @@
 baseURL: "https://YuriKunik.github.io/last-dance/public/"
+relativeURLs: true
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
