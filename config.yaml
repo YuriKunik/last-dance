@@ -1,4 +1,4 @@
-baseURL: "https://YuriKunik.github.io/last-dance/"
+baseURL: "https://YuriKunik.github.io/last-dance/public/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile

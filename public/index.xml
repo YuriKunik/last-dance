@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Profile</title>
-    <link>https://YuriKunik.github.io/last-dance/</link>
+    <link>https://YuriKunik.github.io/last-dance/public/</link>
     <description>Recent content on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
-    <atom:link href="https://YuriKunik.github.io/last-dance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://YuriKunik.github.io/last-dance/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Image Gallery</title>
-      <link>https://YuriKunik.github.io/last-dance/gallery/</link>
+      <link>https://YuriKunik.github.io/last-dance/public/gallery/</link>
       <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
-      <guid>https://YuriKunik.github.io/last-dance/gallery/</guid>
+      <guid>https://YuriKunik.github.io/last-dance/public/gallery/</guid>
       <description></description>
     </item>
   </channel>
