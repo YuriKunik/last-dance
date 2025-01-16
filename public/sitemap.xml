@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://YuriKunik.github.io/last-dance/public/</loc>
+    <loc>https://YuriKunik.github.io/last-dance/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://YuriKunik.github.io/last-dance/public/gallery/</loc>
+    <loc>https://YuriKunik.github.io/last-dance/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://YuriKunik.github.io/last-dance/public/categories/</loc>
+    <loc>https://YuriKunik.github.io/last-dance/categories/</loc>
   </url><url>
-    <loc>https://YuriKunik.github.io/last-dance/public/tags/</loc>
+    <loc>https://YuriKunik.github.io/last-dance/tags/</loc>
   </url>
 </urlset>
